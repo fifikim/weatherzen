@@ -1,5 +1,5 @@
 import React from "react";
-import headerImage from "./header.jpg";
+import headerImage from "./weather.jpg";
 
 const style = {
   background: `linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7)), url(${headerImage})`,
